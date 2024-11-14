@@ -1,5 +1,2 @@
-# ec705_test_1
-katia
-katia
-katia
-
+## Project EC705
+Authors: Katia and Alex
